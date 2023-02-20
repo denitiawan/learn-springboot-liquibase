@@ -37,7 +37,7 @@ index.yml is used for registered all changes .yml files on folder version
 
 ### create new database, database name must same with application properties
 ```
-create database db_kaisir
+create database `database`
 ```
 
 ### run project
