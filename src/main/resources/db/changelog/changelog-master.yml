@@ -1,4 +1,9 @@
 databaseChangeLog:
   - include:
-      file: v1x/index.yml
+      file: 00001_init_db.yml
       relativeToChangelogFile: true
+  - include:
+      file: 00002_add_table_role.yml
+      relativeToChangelogFile: true
+
+
