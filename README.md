@@ -4,7 +4,7 @@
 On this repo we will Learn how to migration database using liquibase on MySql Database,
 
 If you want read the full articles all about this repo, 
-you can see on this [https://deni-setiawan.medium.com/learn-springboot-liquibase](https://deni-setiawan.medium.com/learn-how-to-migration-database-using-liquibase-with-mysql-database-on-springboot-project-4c7bd963f6de)
+you can see on this [www.medium.com](https://medium.com/@denitiawan/learn-how-to-migration-database-using-liquibase-with-mysql-database-on-springboot-project-4c7bd963f6de)
 
 ### Requirements
 - Maven 3+
